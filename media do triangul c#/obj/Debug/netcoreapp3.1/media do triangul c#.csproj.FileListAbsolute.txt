@@ -1,0 +1,13 @@
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\obj\Debug\netcoreapp3.1\media do triangul c#.csprojAssemblyReference.cache
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\obj\Debug\netcoreapp3.1\media do triangul c#.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\obj\Debug\netcoreapp3.1\media do triangul c#.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\obj\Debug\netcoreapp3.1\media do triangul c#.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\bin\Debug\netcoreapp3.1\media do triangul c#.exe
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\bin\Debug\netcoreapp3.1\media do triangul c#.deps.json
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\bin\Debug\netcoreapp3.1\media do triangul c#.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\bin\Debug\netcoreapp3.1\media do triangul c#.runtimeconfig.dev.json
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\bin\Debug\netcoreapp3.1\media do triangul c#.dll
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\bin\Debug\netcoreapp3.1\media do triangul c#.pdb
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\obj\Debug\netcoreapp3.1\media do triangul c#.dll
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\obj\Debug\netcoreapp3.1\media do triangul c#.pdb
+C:\Users\vikto\OneDrive\Documentos\media do triangul c#\obj\Debug\netcoreapp3.1\media do triangul c#.genruntimeconfig.cache
